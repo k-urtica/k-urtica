@@ -6,7 +6,7 @@ I'm a backend developer. And a little front-end development.
 
 | Name | URL | 🤔 |
 |:---|:---:|:---:|
-| Web ToolBox | [https://web-toolbox.dev/](https://web-toolbox.dev/) | Free and easy to use web tools! |
-| QT Visualizer | [https://qtvisualizer.com/](https://qtvisualizer.com/) | Qiita技術記事のランキング |
+| Web ToolBox &#124; 無料で気軽に使えるWebツールサイト | [https://web-toolbox.dev/](https://web-toolbox.dev/) | Free and easy to use web tools! |
+| QT Visualizer &#124;【Qiita技術記事のランキング】 | [https://qtvisualizer.com/](https://qtvisualizer.com/) | 60万以上の記事を集計した[Qiita](https://qiita.com/)のランキング |
 | Nuxt × NewsAPI | [https://nuxt-news-app.now.sh/](https://nuxt-news-app.now.sh/) | News site using Nuxt and News API |
-| K note | [https://knote.dev/](https://knote.dev/) | My blog |
+| K note | [https://knote.dev/](https://knote.dev/) | My blog made with [Gridsome](https://gridsome.org/) |
