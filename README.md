@@ -13,6 +13,13 @@ I love creating web products. I have made several products in the past. And will
 - 🐈️ [Portfolio site](https://k-urtica.github.io/) is my own portfolio site built with NuxtJS.
 - 📒 [K note](https://knote.dev/) is my blog built with Gatsby.
 
+### Metrics
+
+Some interesting metrics about my activity
+   
+![Most used languages](/metrics.plugin.languages.details.svg)
+![Habits facts](/metrics.plugin.habits.facts.svg)
+
 ### Contact
 
 Want to contact me? Please use the [DM on Twitter](https://twitter.com/k_urtica).
