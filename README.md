@@ -6,6 +6,7 @@ I love creating web products. I have made several products in the past. And will
 ### Products
 
 - 🧰 [Web ToolBox](https://web-toolbox.dev/) is a collection of useful tools for developers that can be used in the browser.
+- 🖼 [Superb Shot](https://superbshot.dev/) is a tool that transforms a dull screenshot into a stunning, eye-catching image.
 - 🎨 [Tints and Shades Generator](https://tintsshades.netlify.app/) can easily and intuitively generate tints and shades colors from input colors.
 - 🗾 [日本踏破図](https://traverse-japan.dev/) is a web service that allows you to easily share the prefectures of Japan that you have traversed.
 - 🔍 QT Visualizer[^1] is a web service that aggregates and visualizes over 600,000 articles from the technology sharing platform [Qiita](https://qiita.com/).
