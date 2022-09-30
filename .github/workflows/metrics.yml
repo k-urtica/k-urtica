@@ -16,11 +16,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-      - name: Icons
+      - name: Most used (with details)
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
+          filename: metrics.plugin.languages.details.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_topics: yes
-          plugin_topics_mode: icons
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
