@@ -27,8 +27,6 @@ Some interesting statistics about my activities.
 <img src="/metrics.plugin.habits.facts.svg" />
 </p>
 
-### Language & Tools
-
 ### Contact
 
 Want to contact me? Please use the [DM on Twitter](https://twitter.com/k_urtica).
