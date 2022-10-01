@@ -16,10 +16,13 @@ I love creating web products. I have made several products in the past. And will
 
 ### Metrics
 
-Some interesting metrics about my activity
-   
-![Most used languages](/metrics.plugin.languages.details.svg)
-![Habits facts](/metrics.plugin.habits.facts.svg)
+Some interesting metrics about my activity.
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=k-urtica&theme=nightowl&border_radius=8" />
+</p>
+
+![Most used languages](/metrics.plugin.languages.details.svg) ![Habits facts](/metrics.plugin.habits.facts.svg)
 
 ### Contact
 
