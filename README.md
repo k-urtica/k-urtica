@@ -18,7 +18,7 @@ Here are some of the products I've created — most are browser-based tools buil
 - 🖼 **[Superb Shot](https://superbshot.dev/)**  
   Turn plain screenshots into stunning visuals, perfect for sharing on social media or product pages.
 
-- 🎨 **[Tints and Shades Generator](https://tintsshades.netlify.app/)**  
+- 🎨 **[Tints and Shades Generator](https://tintsshades.web-toolbox.dev/)**  
   Instantly generate accessible tints and shades of any base color, great for UI theming.
 
 - 🗾 **日本踏破図** *(🌇 Sunset)*  
