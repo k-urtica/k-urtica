@@ -24,20 +24,11 @@ Here are some of the products I've created — most are browser-based tools buil
 - 🟦 **[Border Radius Pro](https://border-radius-pro.web-toolbox.dev/)**  
   Effortlessly generate and manage CSS border-radius with advanced visual controls.
 
-- 🗾 **日本踏破図** *(🌇 Sunset)*  
-  A visual tool to share which prefectures in Japan you've visited.
-
-- 🔍 **QT Visualizer** *(🌇 Sunset)*  
-  A large-scale visualization app for over 600,000 Qiita articles. Discontinued to prioritize newer tools.
-
-- 📰 **[Nuxt × News App](https://github.com/k-urtica/nuxt-news-app)**  
-  A news aggregator built with Nuxt and the [News API](https://newsapi.org/), showcasing SSR and API integration.
+- 🌈 **[Gradient Text Pro](https://gradient-text-pro.web-toolbox.dev/)**  
+  Create stunning, export-ready CSS gradient text with presets, editable stops, and tweaks.
 
 - 🐈 **[k-urtica.github.io](https://k-urtica.github.io/)**  
   My personal portfolio site built with Nuxt, featuring past projects and experiments.
-
-- 📒 **[K note](https://knote.dev/)**  
-  A simple developer blog built with Gatsby, where I occasionally share thoughts and tips.
 
 ### 🧰 Tech Stack (and favorite tools)
 
